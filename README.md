@@ -9,7 +9,7 @@ This is a simple To-Do List application built with React and Vite. The applicati
 4. Push to the branch (`git push origin feature/new-feature`).
 5. Open a Pull Request.
 
-## Prerequisites
+## Requisites
 
 Make sure you have Node.js installed on your machine. You can download it [here](https://nodejs.org/).
 
@@ -17,11 +17,11 @@ Make sure you have Node.js installed on your machine. You can download it [here]
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/todo-list.git
+    git clone https://github.com/lassaraiva/ToDo.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd todo-list
+    cd ToDo
     ```
 3. Install the project dependencies:
     ```bash
